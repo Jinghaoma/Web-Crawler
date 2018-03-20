@@ -1,7 +1,17 @@
 <component name="ProjectDictionaryState">
   <dictionary name="jinghaom">
     <words>
+      <w>beginspider</w>
+      <w>getdata</w>
+      <w>getpage</w>
+      <w>initspider</w>
+      <w>jumpbtn</w>
+      <w>lstm</w>
+      <w>myrange</w>
+      <w>pagebar</w>
+      <w>pagebtns</w>
       <w>stardate</w>
+      <w>tonum</w>
     </words>
   </dictionary>
 </component>
